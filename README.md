@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Research Interests
+1. Federated Learning
+2. Graph Nerual Network
+3. Anomaly Detection
+
+
 ### Education
 1. **Ph.D in Computer Science and Engineering**  at  *Sogang University,  2024.03 - now*
 2. **M.S in Computer Science and Engineering**  at  *Sogang University,  2019.03 - 2021.02*
